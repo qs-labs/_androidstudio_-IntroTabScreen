@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">introTabScreen</string>
+    <string name="title_activity_main">introTabScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab1_Text">LOREM IPSUM DOLOR.</string>
+    <string name="tab1_ContentDescription">Polymer image</string>
+    <string name="tab2_Text">DONEC A PHARETRA.</string>
+    <string name="tab2_ContentDescription">Input settings image</string>
+    <string name="tab3_Text">NUNC ACCUMSAN MI.</string>
+    <string name="tab3_ContentDescription">Toys image</string>
+    <string name="tab4_Text">CRAS SUSCIPIT ALIQUET.</string>
+    <string name="tab4_ContentDescription">Nature image</string>
+    <string name="tab5_Text">MAURIS AT FERMENTUM.</string>
+    <string name="tab5_ContentDescription">Gesture image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
