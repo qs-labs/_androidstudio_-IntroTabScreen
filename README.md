@@ -7,7 +7,7 @@ Application introduction screens are becoming an increasingly common practice in
 tutorials for users; nevertheless, documentation for tab screen introductions is scattered, and implementations vary. This package
 offers a 5-page tab screen template.
 
-![Tab preview] (img/TabFan.png)
+![Tab preview](img/TabFan.png)
 
 ## How to Use
 
